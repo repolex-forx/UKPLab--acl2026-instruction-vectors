@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2026-instruction-vectors",
+  "versions": [
+    {
+      "commit": "fd390c7b8b9e8677da071fe197b73e2f22da53b9",
+      "tag": "",
+      "parsed_at": "2026-11-08T07:23:35.859081+00:00"
+    }
+  ]
+}
